@@ -37,8 +37,8 @@ public class Calculadora {
                     operacionValida = false;
                 }
             }
-            
-            // Mostrar el resultado correcto
+             // gg
+            // Mostrar el resultado correcto    1
             if (operacionValida) {
                 System.out.println("El resultado es: " + resultado);
             }
